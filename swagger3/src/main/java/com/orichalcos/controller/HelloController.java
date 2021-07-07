@@ -1,4 +1,4 @@
-package com.orichalcos.contorller;
+package com.orichalcos.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
