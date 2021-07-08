@@ -47,7 +47,7 @@ public class SwaggerConfig {
     }
 
     @Bean
-    public Docket docket1(){
+    public Docket docket1() {
         return new Docket(DocumentationType.OAS_30)
                 .groupName("orichalcos");
     }
